@@ -1,0 +1,12 @@
+*.db
+.gitattributes
+.vs/FileCompressorHuffman.slnx/FileContentIndex/91a410d2-cf92-4ecf-8caf-c2e3caf9e71e.vsidx
+.vs/FileCompressorHuffman.slnx/FileContentIndex/bd0aec6b-95e9-4e68-b540-4184be56a5fa.vsidx
+.vs/FileCompressorHuffman.slnx/v18/Insiders/Browse.VC.db-shm
+.vs/FileCompressorHuffman.slnx/v18/Insiders/Browse.VC.db-wal
+.vs/FileCompressorHuffman.slnx/v18/Insiders/Browse.VC.opendb
+.vs/FileCompressorHuffman.slnx/v18/Insiders/ipch/AutoPCH/f789e391550bb838/COMPRESS.ipch
+.vs/FileCompressorHuffman/CopilotIndices/18.0.912.14514/CodeChunks.db-shm
+.vs/FileCompressorHuffman/CopilotIndices/18.0.912.14514/CodeChunks.db-wal
+.vs/FileCompressorHuffman/CopilotIndices/18.0.912.14514/SemanticSymbols.db-shm
+.vs/FileCompressorHuffman/CopilotIndices/18.0.912.14514/SemanticSymbols.db-wal
