@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAM\\VSPRO\\FileCompressorHuffman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E420275-A3F0-405C-9D61-F0B7688D7A36}|FileCompressorHuffman.vcxproj|D:\\PROGRAM\\VSPRO\\FileCompressorHuffman\\Compress.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E420275-A3F0-405C-9D61-F0B7688D7A36}|FileCompressorHuffman.vcxproj|solutionrelative:Compress.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compress.c",
+              "DocumentMoniker": "D:\\PROGRAM\\VSPRO\\FileCompressorHuffman\\Compress.c",
+              "RelativeDocumentMoniker": "Compress.c",
+              "ToolTip": "D:\\PROGRAM\\VSPRO\\FileCompressorHuffman\\Compress.c",
+              "RelativeToolTip": "Compress.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T09:50:11.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
